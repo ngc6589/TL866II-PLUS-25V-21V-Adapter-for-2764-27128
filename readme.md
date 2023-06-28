@@ -69,6 +69,7 @@
 ## 書き込み方法
 - アダプタを TL866II PLUS のソケットに装着する
 - ROM の書き込み電圧に合わせて 25V はジャンパを外す 21V ならジャンパ装着する
+- 9 ～ 12V の ACアダプタを挿して電源を供給する
 - XGpro アプリケーションを起動しチップの選択をします。
 - 画面左下の [Pin Detect] [Check ID] のチェックボックスを外す
 ![Image 3](Materials/Xgpro-PinDetechOff.png)
